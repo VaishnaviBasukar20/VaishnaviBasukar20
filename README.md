@@ -1,7 +1,6 @@
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vaishnavi!;Data+Science+Student+%7C+Business+Analyst+Aspiring;Machine+Learning+%7C+AI+Enthusiast;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
----
 
 ## 🚀 About Me  
 🎓 **BTech 3rd Year – Data Science**  
@@ -10,7 +9,6 @@
 💡 Passionate about **AI, Analytics, and Cloud Solutions**  
 ✨ Building impactful projects & aiming for a **high-paying tech career**  
 
----
 
 ## 🛠 Tech Stack
 
@@ -23,7 +21,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
----
 
 ## 📌 My Projects
 
@@ -34,7 +31,6 @@
 | **[☁️ Cloud Microservice Platform](https://github.com/vaishnavi-basutkar/cloud-microservice-platform)** | Multi-threaded architecture for Python job execution with scheduling, billing & tracking. | Java, Sockets |
 | **[🩺 Breast Cancer Diagnosis (XAI)](https://github.com/vaishnavi-basutkar/breast-cancer-xai)** | ML + SHAP explainability dashboard for medical diagnosis. | Python, Dash |
 
----
 
 ## 📈 GitHub Analytics
 
@@ -43,7 +39,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviBasukar20&theme=radical" height="180"/>
 </p>
 
----
 
 ## 📅 Latest Activity  
 <!--START_SECTION:activity-->
@@ -52,7 +47,6 @@
 3. 📝 Wrote blog on *"Explainable AI for Healthcare"*  
 <!--END_SECTION:activity-->
 
----
 
 ## 📰 Latest Blog & LinkedIn Posts  
 <!-- BLOG-POST-LIST:START -->
@@ -61,13 +55,11 @@
 - [Data Science Project Lifecycle Explained](https://www.linkedin.com/in/vaishnavi-basutkar)  
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-basutkar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavi.basutkar@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-basutkar-24699a2a7)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnavibasutkar20@gmail.com)  
 
----
 
 💡 *"Turning data into decisions, and ideas into reality!"*
