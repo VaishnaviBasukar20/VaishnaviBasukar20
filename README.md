@@ -40,14 +40,14 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VaishnaviBasukar20&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-basutkar&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaishnaviBasukar20&theme=radical" height="180"/>
 </p>
 
 ---
 
 ## 📅 Latest Activity  
 <!--START_SECTION:activity-->
-1. 🎉 Created repository [vaishnavi-basutkar/walmart-sales-prediction](https://github.com/vaishnavi-basutkar/walmart-sales-prediction)  
+1. 🎉 Created repository [vaishnavi-basutkar/walmart-sales-prediction](https://github.com/VaishnaviBasukar20/walmart-sales-prediction)  
 2. ✨ Updated portfolio site with **Norellé project**  
 3. 📝 Wrote blog on *"Explainable AI for Healthcare"*  
 <!--END_SECTION:activity-->
