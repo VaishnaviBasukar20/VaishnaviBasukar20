@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me  
-🎓 **BTech 3rd Year – Data Science**  
+🎓 **BTech 4th Year – Data Science**  
 💼 Aspiring **Business Analyst | Business Intelligence Analyst | Machine Learning Engineer**  
 🌏 Semester Exchange – Tasmania & Melbourne  
 💡 Passionate about **AI, Analytics, and Cloud Solutions**  
